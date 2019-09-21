@@ -1,1 +1,1 @@
-# videopoker
+# Welcome to video poker! 
